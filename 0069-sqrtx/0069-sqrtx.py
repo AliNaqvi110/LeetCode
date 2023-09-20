@@ -2,13 +2,12 @@ class Solution:
     def mySqrt(self, x: int) -> int:
         if x == 0:
             return 0
-        first, last = 1, x
-        while first <= last:
-            mid = first + (last - first) // 2
-            if mid == x // mid:
-                return mid
-            elif mid > x // mid:
-                last = mid - 1
-            else:
-                first = mid + 1
-        return last
+
+        guess = x  # Initial guess
+        tolerance = 1e-6  # You can adjust the tolerance as needed.
+
+        while True:
+            new_guess = 0.5 * (guess + x / guess)
+            if abs(new_guess - guess) < tolerance:
+                return int(new_guess)
+            guess = new_guess
