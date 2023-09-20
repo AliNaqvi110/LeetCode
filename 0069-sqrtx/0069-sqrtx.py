@@ -3,7 +3,7 @@ class Solution:
         if x == 0:
             return 0
 
-        guess = x  # Initial guess
+        guess = x/2  # Initial guess
         tolerance = 1e-6  # You can adjust the tolerance as needed.
 
         while True:
