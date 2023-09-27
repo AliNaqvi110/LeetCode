@@ -4,5 +4,11 @@ class Solution:
         for i in s.lower():
             if i.isalnum():
                 sl +=i
-        return True if sl==sl[::-1] else False
+        left  = 0
+        right = len(sl) -1
+        while(left < right):
+            if sl[left] != sl[right]: return False
+            left  +=1
+            right -=1
+        return True 
         
