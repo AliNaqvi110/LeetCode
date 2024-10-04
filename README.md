@@ -12,10 +12,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AliNaqvi110/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/AliNaqvi110/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AliNaqvi110/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/AliNaqvi110/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -25,4 +27,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AliNaqvi110/LeetCode/tree/master/0007-reverse-integer) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AliNaqvi110/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
