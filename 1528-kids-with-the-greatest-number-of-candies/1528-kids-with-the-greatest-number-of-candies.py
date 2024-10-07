@@ -4,8 +4,7 @@ class Solution:
         greatest = max(candies)
         res = []
         for i in range(len(candies)):
-            extra = candies[i] + extraCandies
-            if extra >= greatest:
+            if candies[i] + extraCandies >= greatest:
                 res.append(True)
             else:
                 res.append(False)
