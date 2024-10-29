@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AliNaqvi110/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/AliNaqvi110/LeetCode/tree/master/0029-divide-two-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AliNaqvi110/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AliNaqvi110/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
