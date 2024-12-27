@@ -5,12 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        hashmaps = {}
+        my_dict = {}
         for i in range(len(nums)):
             compliment = target - nums[i]
-            if compliment in hashmaps:
-                return [i, hashmaps[compliment]]
-            hashmaps[nums[i]] = i
+            if compliment in my_dict:
+                return [i, my_dict[compliment]]
+            my_dict[nums[i]] = i
         return []
-
-        
