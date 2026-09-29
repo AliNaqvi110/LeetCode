@@ -106,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AliNaqvi110/LeetCode/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AliNaqvi110/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
