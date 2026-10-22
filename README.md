@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AliNaqvi110/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AliNaqvi110/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AliNaqvi110/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AliNaqvi110/LeetCode/tree/master/0118-pascals-triangle) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AliNaqvi110/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -113,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/AliNaqvi110/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/AliNaqvi110/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/AliNaqvi110/LeetCode/tree/master/0182-duplicate-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/AliNaqvi110/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
